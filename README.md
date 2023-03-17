@@ -2,8 +2,7 @@
 😄 Je suis un développeur web et j'essaie toujours d'en apprendre plus<br>😄 I am web developer and i always trying to learn further<br><br>💻 J'utilise principalement les frameworks React.js and Symfony <br>💻 I mainly use React.js and Symfony frameworks<br><br>📮 Contactez–moi par email ou ajouté moi sur Linkedin<br>📮 Contact me by email or add me on Linkedin
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cl%C3%A9ment-ferreira-436944217/) 
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -20,7 +19,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
 
----
-[![](https://visitcount.itsvg.in/api?id=mexpetr2&icon=0&color=6)](https://visitcount.itsvg.in)``
+
+
