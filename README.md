@@ -1,4 +1,4 @@
-``# 💫 About Me:
+``# 🤝 About Me:
 Je suis un développeur web et j'essaie toujours d'en apprendre plus<br> I am web developer and i always trying to learn further<br><br>💻 J'utilise principalement les frameworks React.js and Symfony <br>💻 I mainly use React.js and Symfony frameworks<br><br>Contactez–moi par email ou ajouté moi sur Linkedin 👍<br>Contact me by email or add me on Linkedin👍
 
 
